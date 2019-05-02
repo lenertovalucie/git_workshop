@@ -37,9 +37,9 @@ git branch # seznam větví (hvězdička ukazuje, kde se nachází HEAD)
 git branch -d <branch> # smazaní větve  
 
 git remote –v  # seznam vzdálených repozitářu  
-git remote add <remote> <url> # přidání vzdálených repozitářu (přičemž remote je zkrácený název repozitáře)
+git remote add <remote> <url> # přidání vzdálených repozitářu (přičemž remote je zkrácený název repozitáře)  
 
-git clone <https>  # vytvoření lokální kopie vzdáleného repozitáře
-git push <remote> <branch> # push větve na server (přičemž remote je zkrácený název repozitáře)
-git pull <remote> <branch> # stáhnutí změn do working directory (přičemž remote je zkrácený název repozitáře)
-git fetch <remote> <branch> # stáhnutí změn do local repozitáře (přičemž remote je zkrácený název repozitáře)
+git clone <https>  # vytvoření lokální kopie vzdáleného repozitáře  
+git push <remote> <branch> # push větve na server (přičemž remote je zkrácený název repozitáře)  
+git pull <remote> <branch> # stáhnutí změn do working directory (přičemž remote je zkrácený název repozitáře)  
+git fetch <remote> <branch> # stáhnutí změn do local repozitáře (přičemž remote je zkrácený název repozitáře)  
