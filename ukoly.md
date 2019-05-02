@@ -25,7 +25,7 @@
 - Provést commit (se správnou commit zprávou).  
 - Změny pushnout do remote repozitáře.  
 
-
+```
 ### Příkazy:  
 
 git add <cesta k souboru>  # přidání souboru do stage area  
@@ -43,3 +43,4 @@ git clone <https>  # vytvoření lokální kopie vzdáleného repozitáře
 git push <remote> <branch> # push větve na server (přičemž remote je zkrácený název repozitáře)  
 git pull <remote> <branch> # stáhnutí změn do working directory (přičemž remote je zkrácený název repozitáře)  
 git fetch <remote> <branch> # stáhnutí změn do local repozitáře (přičemž remote je zkrácený název repozitáře)  
+```
