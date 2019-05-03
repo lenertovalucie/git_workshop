@@ -1,0 +1,6 @@
+cd - změna adresáře
+cd .. - přechod do adresáře výše
+dir (ls pro linux) - výpis adresáře
+mkdir - vytvoření adresáře
+rm (del pro linux) - smazání souboru
+echo muj text > jej.txt - vytvoření souboru s textem
