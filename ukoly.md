@@ -1,5 +1,4 @@
 1.  
-- Vytvořit na GitHubu nový repozitář a naklonovat jej k sobě
 - Vytvořit v naklonovaném repozitáři nový soubor.  
 - Soubor přidat do Staging area.  
 - Provést commit (se správnou commit zprávou).  
