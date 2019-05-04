@@ -17,7 +17,7 @@
 
 3.
 - Fork repozitáře: https://github.com/lenertovalucie/git_workshop
-- Naklonovat repozitář
+- Naklonovat forknutý repozitář
 - Přidat upstream repozitář: https://github.com/lenertovalucie/git_workshop.git
 - Vytvořit z masteru novou větev (např. feature/exercise).
 - Vytvořit v naklonovaném repozitáři nový soubor.  
