@@ -5,4 +5,5 @@ mkdir - vytvoření adresáře
 rm (del pro linux) - smazání souboru
 echo muj text > jej.txt - vytvoření souboru s textem
 
+Odkazy:
 https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html
